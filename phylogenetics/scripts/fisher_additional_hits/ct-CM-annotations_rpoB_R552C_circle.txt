@@ -1,0 +1,17 @@
+DATASET_BINARY
+
+    SEPARATOR COMMA
+
+    DATASET_LABEL,binary
+
+    COLOR,#e41a1c
+
+    FIELD_SHAPES,1
+
+    FIELD_LABELS,f1
+
+    DATA
+    n2042,1
+n2044,1
+n2045,1
+n18068,1

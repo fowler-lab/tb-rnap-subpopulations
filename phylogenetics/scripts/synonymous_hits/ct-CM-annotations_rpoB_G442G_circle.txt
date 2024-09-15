@@ -1,0 +1,14 @@
+DATASET_BINARY
+
+    SEPARATOR COMMA
+
+    DATASET_LABEL,binary
+
+    COLOR,#e41a1c
+
+    FIELD_SHAPES,1
+
+    FIELD_LABELS,f1
+
+    DATA
+    n9221,1
